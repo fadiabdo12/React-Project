@@ -1,0 +1,14 @@
+.root {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  padding-left: 10px;
+}
+
+input {
+  padding: 10px;
+  width: 100px;
+  margin-bottom: 20px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}

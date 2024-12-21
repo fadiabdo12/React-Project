@@ -1,0 +1,33 @@
+.root {
+  background-image: url("../../wallpaper/wallpapersden.com_lone-samurai_3239x1851.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  text-align: left;
+  display: flex;
+  justify-content: center;
+  align-items: first baseline;
+  height: 100%;
+  min-height: 70vh;
+}
+
+.about {
+  margin: 30px;
+  border: 3px solid #0000006e;
+  background-color: rgba(0, 0, 0, 0.603);
+}
+
+.h1 {
+  font-family: "Marcellus SC";
+  color: #897859;
+  border-bottom: 3px solid #fff;
+}
+
+p {
+  color: #b4b2b0;
+  font-size: 16px;
+}
+
+h3 {
+  margin-top: 0;
+  color: #b4b2b0;
+}

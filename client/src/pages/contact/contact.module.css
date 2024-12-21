@@ -1,0 +1,24 @@
+.root {
+  background-image: url("../../wallpaper/sekiro-shadows-die-twice-game-fanart-4k-6d.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  text-align: left;
+  display: flex;
+  justify-content: center;
+  align-items: first baseline;
+  height: 100%;
+  color: #b4b2b0;
+}
+
+.form {
+  width: unset;
+  text-align: left;
+  border: 3px solid #0000006e;
+  background-color: rgba(0, 0, 0, 0.603);
+}
+
+.h1 {
+  font-family: "Marcellus SC";
+  color: #897859;
+  border-bottom: 3px solid #fff;
+}
